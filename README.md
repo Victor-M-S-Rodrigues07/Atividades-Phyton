@@ -8,17 +8,17 @@
 
 ## 🗂 Sumário
 
-- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-descri%C3%A7%C3%A3o-do-projeto)
-- [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-objetivos-do-curso)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-tecnologias-utilizadas)
-- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-estrutura-do-projeto)
-- [Exercício Nº 1: 🌳 Árvore](#)
-- [Exercício Nº 2: 0️⃣1️⃣ Árvore Binária de Busca (BST)](#)
-- [Exercício Nº 3: ⚖ BST com Balanceamento](#)
-- [Exercício Nº 4: 🌲 Árvore AVL](#)
-- [Exercício Nº 5: ⚡ Treino da AVL](#)
-- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-autor)
-- [📞 Contatos](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-contatos)
+- [📝 Descrição da Lista](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-descri%C3%A7%C3%A3o-da-lista)
+- [🎯 Objetivos da Lista](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-objetivos-da-lista)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-tecnologias-utilizadas)
+- [📂 Estrutura doS Arquivos](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-estrutura-dos-arquivos)
+- [Exercício Nº 1: 🌳 Árvore](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-exerc%C3%ADcio-n%C2%BA-1--%C3%A1rvore-)
+- [Exercício Nº 2: 0️⃣1️⃣ Árvore Binária de Busca (BST)](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-exerc%C3%ADcio-n%C2%BA-2-0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-%C3%A1rvore-bin%C3%A1ria-de-busca-bst-)
+- [Exercício Nº 3: ⚖ BST com Balanceamento](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-exerc%C3%ADcio-n%C2%BA-3--bst-com-balanceamento-)
+- [Exercício Nº 4: 🌲 Árvore AVL](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-exerc%C3%ADcio-n%C2%BA-4--%C3%A1rvore-avl-)
+- [Exercício Nº 5: ⚡ Treino da AVL](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-exerc%C3%ADcio-n%C2%BA-5--treino-da-avl-)
+- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-autor)
+- [📞 Contatos](https://github.com/Victor-M-S-Rodrigues07/Atividades-Arvores-Simples-BST-AVL--Lista-de-Exercicios-N3-2025#-contatos)
 
 ## 📝 Descrição da Lista
 
@@ -147,6 +147,5 @@ Por fim, o último exercício foi criado para a realização de testes com a AVL
 <a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logoColor=%23FFFFFF&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a> 
 <a href = "https://github.com/Victor-M-S-Rodrigues07/"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=%23000000&color=%2300000000"></a>
 <a href = "https://cursos.alura.com.br/user/victorvicmr"><img alt="Static Badge" src="https://img.shields.io/badge/Alura-0?style=for-the-badge&color=%23100D36"></a>
-<a href = "https://cursos.alura.com.br/course/html-css-praticando-html-css"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML%20e%20CSS%3A%20Praticando%20HTML%2FCSS-0?style=for-the-badge&label=Curso&color=%23FB767A"></a>
 
 🇧🇷 - 2025
